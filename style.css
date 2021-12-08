@@ -1,0 +1,33 @@
+.animals{
+    width: 400px;
+    height: 450px;
+}
+#main{
+    background-color: lightgreen;
+}
+#heading{
+    background-color: bisque;
+    font-family: 'Graduate', cursive;
+}
+body{
+    background-color: pink;
+}
+#note{
+    color: lightblue;
+}
+#header{
+   color: red
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    background-color: yellow;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    font-size: 20px;
+    text-shadow:5px 4px 5px black;
+}
+#sound{
+    color: red;
+}
